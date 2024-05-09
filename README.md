@@ -53,10 +53,10 @@
 
 
 ## Output:
+![exp1](https://github.com/Hezron-lix/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/139331337/4be89b68-2030-46ee-9af5-8cba18437b1e)
 
-
-### Name:
-### Register Number: 
+### Name: Hezron Belix
+### Register Number: 212223230078
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
